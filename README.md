@@ -1,3 +1,6 @@
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/35es-h6xF-0/0.jpg)]
+(http://www.youtube.com/watch?v=35es-h6xF-0)
+
 # History of Top Level Domain Name System
 ## ========================================
     Originally, the top-level domain space was organized into three main groups: Countries, Categories, and Multiorganizations.[12] An additional temporary group consisted of only the initial DNS domain, arpa,[13] and was intended for transitional purposes toward the stabilization of the domain name system
