@@ -1,4 +1,8 @@
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/35es-h6xF-0/0.jpg)](http://www.youtube.com/watch?v=35es-h6xF-0)
+[![IMAGE ALT QUICKLY](http://img.youtube.com/vi/35es-h6xF-0/0.jpg)](http://www.youtube.com/watch?v=35es-h6xF-0)
+
+[![IMAGE ALT TODAY](http://img.youtube.com/vi/UHmHQnwifRc/0.jpg)](http://www.youtube.com/watch?v=UHmHQnwifRc)
+
+follow me now
 
 # History of Top Level Domain Name System
 ## ========================================
