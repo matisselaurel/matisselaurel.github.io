@@ -30,3 +30,5 @@ O
 Dsh
 
 https://www.youtube.com/watch?v=CO8vBVUaKvk
+
+https://patreon.com/invite/lwvdmx
