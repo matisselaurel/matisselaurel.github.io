@@ -1,4 +1,4 @@
-[![IMAGE ALT QUICKLY](https://imgur.com/GFmbxMr)](http://www.youtube.com/watch?v=
+[![IMAGE ALT QUICKLY](https://imgur.com/GFmbxMr)](http://www.youtube.com/watch?v=35es-h6xF-0)
 
 [![IMAGE ALT QUICKLY](http://i.imgur.com/kAd8kFE.png)](http://www.youtube.com/watch?v=35es-h6xF-0)
 
