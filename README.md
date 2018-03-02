@@ -28,7 +28,7 @@ https://web.archive.org/web/20131014054640/http://www.octurntableinstitute.com/
 
 https://u.magento.com/certification/directory/dev/838783/
 
-# www.madebymatisse.com
+# www.madebymatisse.com - r.i.p.
 http://ec2-52-24-18-150.us-west-2.compute.amazonaws.com/portfolio.html
 
 http://www.patreon.com/insightmeditazbuosette
@@ -45,3 +45,5 @@ Dsh
 https://www.youtube.com/watch?v=CO8vBVUaKvk
 
 https://patreon.com/invite/lwvdmx
+
+# www.matisselaurel.com - r.i.p.
