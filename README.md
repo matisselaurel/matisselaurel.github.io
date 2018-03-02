@@ -5,7 +5,9 @@
 [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)](https://www.youtube.com/watch?v=7f9NIOdiEEg)
 [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)](https://www.youtube.com/watch?v=7f9NIOdiEEg)
 
-[![IMAGE ALT QUICKLY](https://i.imgur.com/NgInh17.gif)] [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif) [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)]
+[![IMAGE ALT QUICKLY](https://i.imgur.com/NgInh17.gif)]
+[![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)]
+[![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)]
 
 [![IMAGE ALT QUICKLY](https://i.imgur.com/GFmbxMr.jpg)](https://www.youtube.com/watch?v=7f9NIOdiEEg)
 
