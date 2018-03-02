@@ -1,5 +1,5 @@
 
-[!IMAGE ALT High Focus](https://i.imgur.com/Omoold9.png)](https://www.youtube.com/watch?v=tA16i47I1HM&list=RDMMtA16i47I1HM)
+[!IMAGE ALT HIGH FOCUS](https://i.imgur.com/Omoold9.png)](https://www.youtube.com/watch?v=tA16i47I1HM&list=RDMMtA16i47I1HM)
 
 [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)](https://www.youtube.com/watch?v=7f9NIOdiEEg)
 [![IMAGE ALT QUICKLY](http://i.imgur.com/NgInh17.gif)](https://www.youtube.com/watch?v=7f9NIOdiEEg)
