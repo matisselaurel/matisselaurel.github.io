@@ -1,3 +1,4 @@
+https://askubuntu.com/questions/9135/how-to-backup-settings-and-list-of-installed-packages
 
 [![IMAGE ALT HIGH FOCUS](https://i.imgur.com/Omoold9.png)](https://www.youtube.com/watch?v=tA16i47I1HM&list=RDMMtA16i47I1HM)
 
