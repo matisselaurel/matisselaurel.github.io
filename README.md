@@ -14,7 +14,7 @@
 # Magento Certification
 ### LINK: https://u.magento.com/certification/directory/dev/838783/
 
-# Notes:u2
+# Notes:
 
 ### History of Top Level Domain Name System
 ### ========================================
