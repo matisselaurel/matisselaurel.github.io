@@ -1,7 +1,7 @@
 # Last Portfolio
 ### www.madebymatisse.com - r.i.p.
 --------------------------------------------------------------------------
-| - http://ec2-52-24-18-150.us-west-2.compute.amazonaws.com/portfolio.html
+| - LINK: http://ec2-52-24-18-150.us-west-2.compute.amazonaws.com/portfolio.html
 
 ## www.madebymatisse.com - r.i.p.
 ![www.madebymatisse.com](https://i.imgur.com/kAd8kFE.png)
@@ -9,12 +9,12 @@
 # Portfolio before last
 ### www.matisselaurel.com - r.i.p.
 --------------------------------------------------------------------------
-|- https://web.archive.org/web/20110208114037/http://www.matisselaurel.com
+|- LINK: https://web.archive.org/web/20110208114037/http://www.matisselaurel.com
 
 # Magento Certification
-### https://u.magento.com/certification/directory/dev/838783/
+### LINK: https://u.magento.com/certification/directory/dev/838783/
 
-# Notes:
+# Notes:u2
 
 ### History of Top Level Domain Name System
 ### ========================================
