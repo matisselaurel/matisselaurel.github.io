@@ -17,8 +17,9 @@
 # Orange County Turntable Institute
 |- Pro bono work I designed and developed.
 |- LINK: https://web.archive.org/web/20131014054640/http://www.octurntableinstitute.com/
+
 ## Photo of www.octurntableinstitute.com
-![www.octurntableinstitute.com](https://imgur.com/a/jmSqI)
+![www.octurntableinstitute.com](http://i.imgur.com/PnuW7CF.gif)
 
 # Magento Certification
 ### LINK: https://u.magento.com/certification/directory/dev/838783/
