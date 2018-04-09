@@ -24,6 +24,11 @@
 # Magento Certification
 ### Link to [Certification](https://u.magento.com/certification/directory/dev/838783/)
 
+# Resume
+### [.pdf](https://github.com/matisselaurel/portfolio/blob/master/MatisseLaurel_Resume.2k18.pdf)
+### [.doc](https://github.com/matisselaurel/portfolio/blob/master/MatisseLaurel_Resume.2k18.doc)
+### [.docx](https://github.com/matisselaurel/portfolio/blob/master/MatisseLaurel_Resume.2k18.docx)
+
 # Notes:
 
 ### History of Top Level Domain Name System
